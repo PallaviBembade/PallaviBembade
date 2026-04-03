@@ -2,7 +2,7 @@
 
 <h3 align="center">💡 Data Scientist | AI Engineer | AI & Data Science Enthusiast</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F72E&width=500&lines=Quality+Advocate+and+Automation+Architect;Data+Science+and+Generative+AI+Enthusiastic" alt="Header Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F72E&width=500&lines=AI+Engineer+%7C+LLM+Agents+Builder+%7C+RAG+Systems;Data+Science+to+Production+AI+Systems;Building+Scalable+and+Intelligent+AI+Solutions" alt="Header Animation">
 </p>
 
 > **_If it ain't analyzed, it ain't optimized!_**
@@ -12,13 +12,13 @@
 ---
 
 ### 🔥 About Me
-- 🔹 **Currently Working as:** **Data Scientist** (with roots in Software Testing & QA Automation)  
-- 🔹 **2+ years** of experience in **Data Science, Test Engineering & Automation** 
-- 🔹 Passionate about **Model Building, QA Automation, CI/CD, Performance Testing, Data Science (Generative AI)**  
+- 🔹 **Currently Working as:** **Data Scientist & AI Engineer**
+- 🔹 **3+ years** of experience in **Data Science, Machine Learning & AI Engineering** 
+- 🔹 Passionate about **Model Development, QA Automation, CI/CD, Performance Testing, Data Science (Generative-Agentic Scalable AI Systems) 🤖**  
 - 🔹 Love experimenting with **AI-driven results & self-healing scripts** 🤖  
 - 🔹 Always on the hunt for **the perfect test strategy, model building & evaluation** to balance speed & quality ⚖️  
-- 🔹 Believe in **"Test early, test often, and automate smartly!"** ✅ 
-- 🔹 **Currently Exploring:** **Data Science & AI- [ML, NLP, LLMs, VectorDB, RAG, Langchain etc]** 📊🤖  
+- 🔹 Believe in **"Data-driven decision making and continuous model improvement- end-to-end AI applications"** ✅ 
+- 🔹 **Currently Exploring:** **Data Science & AI- [ML, NLP, LLMs, VectorDB, RAG, Agentic-Rag, Langchain, Langgraph, Autogen etc]** 📊🤖  
 
 ---
 
