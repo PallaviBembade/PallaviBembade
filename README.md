@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pallavi Alapure! 🚀 </h1>
 
-<h3 align="center">💡 Data Scientist | AI & Data Science Enthusiast</h3>
+<h3 align="center">💡 Data Scientist | AI Engineer | AI & Data Science Enthusiast</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F72E&width=500&lines=Quality+Advocate+and+Automation+Architect;Data+Science+and+Generative+AI+Enthusiastic" alt="Header Animation">
 </p>
