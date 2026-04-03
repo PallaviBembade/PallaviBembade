@@ -105,10 +105,10 @@
 ### 🌐 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pallavi-alapure-89773922b/">
+  <a href="www.linkedin.com/in/pallavi-bembade">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pallavi.alapure@gmail.com">
+  <a href="mailto:pallavi.bembade@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="#">
