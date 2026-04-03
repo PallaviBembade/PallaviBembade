@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pallavi Alapure-Bembade! 🚀 </h1>
+<h1 align="center">Hi 👋, I'm Pallavi Bembade! 🚀 </h1>
 
 <h3 align="center">💡 Data Scientist | AI Engineer | AI & Data Science Enthusiast</h3>
 <p align="center">
