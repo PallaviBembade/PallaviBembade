@@ -104,7 +104,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://pallavibembade.github.io/pallavibembade/" target="_blank">
+  <a href="https://PallaviBembade.github.io/PallaviBembade/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
