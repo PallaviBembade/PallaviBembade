@@ -108,5 +108,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pallavialapure&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=pallavibembade&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views">
 </p>
