@@ -86,9 +86,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallavialapure&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavialapure&layout=compact&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavialapure&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallavibembade&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavibembade&layout=compact&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavibembade&theme=vision-friendly-dark"/>
 </p>
 
 ---
