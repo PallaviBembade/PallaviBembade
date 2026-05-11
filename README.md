@@ -87,8 +87,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallavibembade&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavibembade&layout=compact&theme=vision-friendly-dark&langs_count=8&cache_seconds=1800&v=2"/>
+  <img height="180em" src="https://gh-readme-stats.vercel.app/api?username=pallavibembade&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=pallavibembade&layout=compact&theme=vision-friendly-dark&langs_count=8"/>
 </p>
 
 <p align="center">
