@@ -83,12 +83,24 @@
 ![Zsh](https://img.shields.io/badge/-Zsh-1B2C34?logo=gnu-bash&logoColor=white)
 
 ---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallavibembade&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavibembade&layout=compact&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallavibembade&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavibembade&layout=compact&theme=vision-friendly-dark&langs_count=8&cache_seconds=1800"/>
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavibembade&theme=vision-friendly-dark"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=pallavibembade&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallavibembade&theme=monokai"/>
 </p>
 
 ---
