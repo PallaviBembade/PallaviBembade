@@ -11,14 +11,20 @@
 
 ---
 
-### 🔥 About Me
-- 🔹 **Currently Working as:** **Data Scientist & AI Engineer**
-- 🔹 **4 years** of experience in **Data Science, Machine Learning & AI Engineering** 
-- 🔹 Passionate about **Model Development, QA Automation, CI/CD, Performance Testing, Data Science (Generative-Agentic Scalable AI Systems) 🤖**  
-- 🔹 Love experimenting with **AI-driven results & self-healing scripts** 🤖  
-- 🔹 Always on the hunt for **the perfect test strategy, model building & evaluation** to balance speed & quality ⚖️  
-- 🔹 Believe in **"Data-driven decision making and continuous model improvement- end-to-end AI applications"** ✅ 
-- 🔹 **Currently Exploring:** **Data Science & AI- [ML, NLP, LLMs, VectorDB, RAG, Agentic-Rag, Langchain, Langgraph, Autogen etc]** 📊🤖  
+## 🔥 About Me
+
+- 👩‍💻 **AI Engineer | Generative AI | Agentic AI | LLM Engineer**
+- 🚀 **4 Years of Professional Experience** in Artificial Intelligence, Data Science, Machine Learning, and AI Engineering.
+- 🤖 Passionate about building **Agentic AI, Multi-Agent Systems, Autonomous AI Agents, Google ADK, LLM Applications, RAG, Multi-RAG, and Agentic RAG Architectures.**
+- 🧠 Hands-on experience in developing **End-to-End GenAI Applications** using LLMs, Prompt Engineering, Context Engineering, Embeddings, Vector Databases, and Retrieval Pipelines.
+- 🔗 Interested in **AI Agent Development, Tool Calling, Function Calling, ReAct Agents, Multi-Agent Orchestration, and Workflow Automation.**
+- ⚙️ Focused on building **End-to-End AI Pipelines**, REST API Integration, Model Deployment, Docker Containerization, CI/CD, and Production-Ready AI Applications.
+- ☁️ Exploring cloud-based AI solutions using **AWS and Microsoft Azure**.
+- 📊 Passionate about **LLM Evaluation, RAG Optimization, Hallucination Reduction, Model Performance, and AI Response Quality.**
+- 🔬 **Currently Exploring:** Advanced Agentic AI, Google ADK, LangChain, LangGraph, AutoGen, LlamaIndex, Advanced RAG, Multi-RAG, Vector Databases, NLP, and LLMOps.
+- 🎯 **My Goal:** Building scalable, intelligent, reliable, and production-ready AI systems that solve real-world problems.
+
+🤖 *Building Intelligent Systems | Empowering Applications with Generative AI & Agentic AI* 🚀
 
 ---
 
@@ -54,7 +60,8 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 
-**AI/ML Toolkit-** ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+**AI/ML Toolkit-** 
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=python&logoColor=white)
@@ -62,7 +69,17 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-27338e?logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-00ADD8?logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?logo=langchain&logoColor=white)
+![LangFlow](https://img.shields.io/badge/-LangFlow-00A67E?logo=flowise&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?logo=langchain&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/-LiteLLM-5A67D8?logo=openai&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-00897B?logo=databricks&logoColor=white)
+![Advanced RAG](https://img.shields.io/badge/-Advanced%20RAG-009688?logo=databricks&logoColor=white)
+![Agentic RAG](https://img.shields.io/badge/-Agentic%20RAG-16A085?logo=databricks&logoColor=white)
+![Microsoft Presidio](https://img.shields.io/badge/-Microsoft%20Presidio-0078D4?logo=microsoft&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
+![Google ADK](https://img.shields.io/badge/-Google%20ADK-4285F4?logo=google&logoColor=white)
 
 **Databases-** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -73,6 +90,7 @@
 **Cloud & DevOps Platforms-** ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 **Operating Systems & Shells-** ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
