@@ -22,14 +22,14 @@
 - ☁️ Exploring cloud-based AI solutions using **AWS and Microsoft Azure**.
 - 📊 Passionate about **LLM Evaluation, RAG Optimization, Hallucination Reduction, Model Performance, and AI Response Quality.**
 - 🔬 **Currently Exploring:** Advanced Agentic AI, Google ADK, LangChain, LangGraph, AutoGen, LlamaIndex, Advanced RAG, Multi-RAG, Vector Databases, NLP, and LLMOps.
-- 🎯 **My Goal:** Building scalable, intelligent, reliable, and production-ready AI systems that solve real-world problems.
+- 🎯 **Goal:** Building scalable, intelligent, reliable, and production-ready AI systems that solve real-world problems.
 
 🤖 *Building Intelligent Systems | Empowering Applications with Generative AI & Agentic AI* 🚀
 
 ---
 
 ### 💻 What I'm Working On
-- ✅ Building a scalable **Generative AI, Agentic AI, Framework**  
+- ✅ Building a scalable **Generative AI, Agentic AI Applications**  
 - ✅ Exploring **AI-powered Testing** with Machine Learning 🤖  
 - ✅ Enhancing **API & Performance Testing Strategies**
 - ✅ Applying **ML & NLP techniques** to drive intelligent QA & automation solutions  
