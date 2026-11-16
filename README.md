@@ -13,7 +13,7 @@
 
 ### 🔥 About Me
 - 🔹 **Currently Working as:** **Data Scientist & AI Engineer**
-- 🔹 **3+ years** of experience in **Data Science, Machine Learning & AI Engineering** 
+- 🔹 **4 years** of experience in **Data Science, Machine Learning & AI Engineering** 
 - 🔹 Passionate about **Model Development, QA Automation, CI/CD, Performance Testing, Data Science (Generative-Agentic Scalable AI Systems) 🤖**  
 - 🔹 Love experimenting with **AI-driven results & self-healing scripts** 🤖  
 - 🔹 Always on the hunt for **the perfect test strategy, model building & evaluation** to balance speed & quality ⚖️  
